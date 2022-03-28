@@ -1,0 +1,9 @@
+{
+"ArchivoEntrada":"Melate.csv",
+"ArchivoSalida":"Salida.sql",
+"Tabla":"Estudiantes",
+"Columna":[
+{
+"Porcion":O,"Tipo":"Entero"
+}
+]
